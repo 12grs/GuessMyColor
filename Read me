@@ -1,0 +1,8 @@
+check out the game at https://12grs.github.io/GuessMyColor/
+RGB stands for red blue and green.
+all the three parameters lie between 0-255.
+255,0,0 means red.
+0,255,0 means green.
+0,0,255 means blue.
+x,y,z would represent the amount in which these colors are mixed
+
